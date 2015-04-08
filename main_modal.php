@@ -3,7 +3,7 @@
         <div id="map_header">
 
             
-            <h3>Sintetik</h3>
+            <h2>Sintetik</h2>
             <h5>Cauta un teren pentru fotbal.</h5>
 
             <img src="http://studiosnear.me/img/logo.png">
@@ -55,21 +55,6 @@
             </select>
 
         </div>
-
-        <!--
-        <div class="input-group hidden-xs hidden-sm">
-                    <span class="input-group-addon"><i class="fa fa-bars"></i></span>
-                <select class="form-control address" name="StudioCategory"  data-h5-errorid="invalid-category" required>
-                <option value="all">All</option>
-                <option value="advertising">Advertising</option>
-                <option value="digital">Digital</option>
-                <option value="marketing">Marketing</option>
-                <option value="pr">PR</option>
-                <option value="branding">Branding</option>
-        </select>
-        
-        </div>
-        -->
 
         <input type="hidden" id="lat" name="StudioLat" />
         <input type="hidden" id="long" name="StudioLong"/>
