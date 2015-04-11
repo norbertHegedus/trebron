@@ -44,7 +44,7 @@
 body,
 html {
   height: 100%;
-  background: #1486fb;
+  /*background: #1486fb;*/
   color: #f3f3f3;
   -webkit-transition: all 0.25s ease-in;
   -moz-transition: all 0.25s ease-in;
